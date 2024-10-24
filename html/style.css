@@ -1,0 +1,7 @@
+p{
+    color: maroon;
+}
+
+tr,th,td,table{
+    border: solid black 2px;
+}
